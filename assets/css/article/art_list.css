@@ -1,0 +1,28 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding: 15px;
+  background-color: #f2f3f5;
+}
+
+.artinfo-box{
+  padding: 20px;
+}
+
+.artinfo-title {
+  text-align: center;
+}
+
+.artinfo-bar {
+  font-size: 12px;
+  margin: 20px 0;
+  color: gray;
+}
+
+.artinfo-bar span {
+  margin-right: 20px;
+}

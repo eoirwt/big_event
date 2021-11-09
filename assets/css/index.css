@@ -1,3 +1,8 @@
+/* 强制清除 `<a>` 链接的 CSS3 动画 */
+a{
+    transition: none !important;
+  }
+
 .layui-footer {
     text-align: center;
     font-size: 12px;
@@ -21,6 +26,7 @@ iframe {
     overflow: hidden;
 }
 
+/* 头像结构样式 */
 .userinfo {
     height: 60px;
     line-height: 60px;
